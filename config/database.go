@@ -13,10 +13,10 @@ const (
 	host          = "127.0.0.1"
 	port          = 3306
 	user          = "admin"
-	password      = "Medika@2022"
+	password      = ""
 	dbName        = "gocrud"
-	ClientID      = "aee0e13ebbec4e73a3c5f646e63e5edd"
-	ClientSecret  = "75e52caebe0746d584e6b46b305099a3"
+	ClientID      = ""
+	ClientSecret  = ""
 	SpotifyAPIURL = "https://api.spotify.com/v1"
 )
 
